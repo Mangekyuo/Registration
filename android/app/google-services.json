@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620726192917",
+    "project_id": "logs-64c61",
+    "storage_bucket": "logs-64c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620726192917:android:dd0cd1e0a98c126ed9371c",
+        "android_client_info": {
+          "package_name": "com.teit.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620726192917-qeenuq847cfe9updhc9p5cadh86ds64t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWVUUQGbFvjZBF8fHuCs-Vbt5i85jVT8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620726192917-qeenuq847cfe9updhc9p5cadh86ds64t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
