@@ -1,3 +1,3 @@
 # registration
 
-Application to login in system.
+Application to login in to Firebase system.
